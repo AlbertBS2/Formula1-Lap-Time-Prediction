@@ -1,2 +1,5 @@
 # Ignore catboost_info folder
 catboost_info/
+
+# Ignore results folder
+results/
