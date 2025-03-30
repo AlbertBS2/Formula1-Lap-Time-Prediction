@@ -3,3 +3,6 @@ catboost_info/
 
 # Ignore results folder
 results/
+
+# Ignore __pycache__ folders
+__pycache__/
